@@ -5,3 +5,4 @@
 /.cache-main
 /.cache-tests
 /chapter03App.iml
+/dependency-reduced-pom.xml
