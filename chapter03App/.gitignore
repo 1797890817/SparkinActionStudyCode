@@ -1,1 +1,7 @@
 /target/
+/.idea/
+/.settings/
+/logs/
+/.cache-main
+/.cache-tests
+/chapter03App.iml
